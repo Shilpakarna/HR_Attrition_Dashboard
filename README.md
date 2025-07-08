@@ -22,4 +22,17 @@ soft Skills:
 3. Optimization of report generation through meticulous fine-tuning.
 4. Developing a systematic approach to devising a report building plan
 
+📌 Key Insights :
+
+1. Total attrition rate is 17% (492 out of 2,925 employees).
+2. Male employees show higher attrition (312) than females (180).
+3. The 26–35 age group experiences the highest attrition, especially among females.
+4. Employees with Bachelor’s and Master’s degrees account for most attrition.
+5. R&D and Sales departments have the highest employee turnover.
+6. High performers are leaving at a surprising rate (413 employees).
+7. Most attrition occurs among those with 0–10 years of total working experience.
+8. Roles with highest attrition: Lab Technician, Sales Executive, Research Scientist.
+9. Employees who travel rarely or frequently are more likely to leave than non-travelers.
+
+
 
